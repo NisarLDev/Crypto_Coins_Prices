@@ -9,8 +9,8 @@ fn main() {
 
     let result_precio = get_precio(&coin);
     match result_precio {
-        Ok(precio) => println!("El precio es el siguiente: ${}", precio),
-        Err(error) => println!("Error al buscar el precio: {}", error),
+        Ok(precio) => println!("El precio de cotización es el siguiente: ${}", precio),
+        Err(error) => println!("Error al buscar el precio de cotización: {}", error),
     }
 }
 
