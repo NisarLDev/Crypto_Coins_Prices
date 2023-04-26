@@ -4,7 +4,7 @@ Instructions for compilling binary and utilization of the programme:
 
 1 - Clone the repository with the next command: git clone https://github.com/NisarLDev/Crypto_Coins_Prices
 
-2 - Into the folder of the project for compilling the programme, execute the next command: cargo run
+2 - Execute the next command: "cargo run" (without braquets) into the folder of the project in order of compilling the programme.
 
 
 For more information about Rust and the process of the instalation, look next page:
