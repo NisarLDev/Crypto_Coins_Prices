@@ -16,3 +16,5 @@ Bibliography:
 1 - https://yt.artemislena.eu/watch?v=YstWxVrdYZg&listen=false
 
 2 - https://github.com/juliooa/crypto_prices
+
+3 - https://rust-lang-nursery.github.io/rust-cookbook/
